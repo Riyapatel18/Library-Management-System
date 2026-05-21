@@ -70,10 +70,6 @@ Library-Management-System/
 
 ## 1️⃣ Clone Repository
 
-```bash
-git clone https://github.com/your-username/library-management-system-python.git
-```
-
 ---
 
 ## 2️⃣ Navigate to Project Folder
